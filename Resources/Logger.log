@@ -1,0 +1,73 @@
+2021-01-06 18:47:53 INFO  BaseTest:44 - chrome Drive is initilized
+2021-01-06 18:48:36 INFO  BaseTest:54 - URL OPEND
+2021-01-06 18:48:42 INFO  RegisterToWebsitePage:99 - Sign-in button got clicked  
+2021-01-06 18:48:42 INFO  RegisterToWebsitePage:104 - email is entered 
+2021-01-06 18:48:42 INFO  RegisterToWebsitePage:112 - create account button is clicked 
+2021-01-06 18:48:49 INFO  RegisterToWebsitePage:118 - gender is selected 
+2021-01-06 18:48:49 INFO  RegisterToWebsitePage:123 - first name is entered  
+2021-01-06 18:48:49 INFO  RegisterToWebsitePage:129 - last name is entered 
+2021-01-06 18:48:49 INFO  RegisterToWebsitePage:135 - password is entered  
+2021-01-06 18:48:50 INFO  RegisterToWebsitePage:142 - date of DOB 
+2021-01-06 18:48:50 INFO  RegisterToWebsitePage:149 - month of DOB 
+2021-01-06 18:48:50 INFO  RegisterToWebsitePage:156 - year of DOB 
+2021-01-06 18:48:50 INFO  RegisterToWebsitePage:162 - box got clicked  
+2021-01-06 18:48:51 INFO  RegisterToWebsitePage:174 - company name is entered 
+2021-01-06 18:48:51 INFO  RegisterToWebsitePage:180 - addreshline -1 entered  
+2021-01-06 18:48:51 INFO  RegisterToWebsitePage:186 - addreshline -2 entered  
+2021-01-06 18:48:51 INFO  RegisterToWebsitePage:192 - address  city 
+2021-01-06 18:48:51 INFO  RegisterToWebsitePage:199 - address country 
+2021-01-06 18:48:52 INFO  RegisterToWebsitePage:226 - mobile number entered  
+2021-01-06 18:49:03 INFO  RegisterToWebsitePage:232 - registered button got clicked 
+2021-01-06 18:49:03 INFO  BaseTest:37 - Register success
+2021-01-06 18:49:04 INFO  BaseTest:61 - Browser got closed
+2021-01-06 18:49:07 INFO  BaseTest:44 - chrome Drive is initilized
+2021-01-06 18:49:48 INFO  BaseTest:54 - URL OPEND
+2021-01-06 18:49:54 INFO  LoginWebsitePage:32 - clicked on login button
+2021-01-06 18:49:54 INFO  LoginWebsitePage:37 - email is entered
+2021-01-06 18:49:54 INFO  LoginWebsitePage:42 - password value is entered
+2021-01-06 18:49:57 INFO  LoginWebsitePage:47 - sign-in button get clicked
+2021-01-06 18:49:57 INFO  LoginWebsiteTest:23 - Login Successfull
+2021-01-06 18:49:57 INFO  BaseTest:61 - Browser got closed
+2021-01-06 18:50:01 INFO  BaseTest:44 - chrome Drive is initilized
+2021-01-06 22:44:19 INFO  BaseTest:44 - chrome Drive is initilized
+2021-01-06 22:45:12 INFO  BaseTest:44 - chrome Drive is initilized
+2021-01-06 22:46:05 INFO  BaseTest:54 - URL OPEND
+2021-01-06 22:46:10 INFO  RegisterToWebsitePage:99 - Sign-in button got clicked  
+2021-01-06 22:46:14 INFO  RegisterToWebsitePage:104 - email is entered 
+2021-01-06 22:46:14 INFO  RegisterToWebsitePage:112 - create account button is clicked 
+2021-01-06 22:46:19 INFO  RegisterToWebsitePage:118 - gender is selected 
+2021-01-06 22:46:20 INFO  RegisterToWebsitePage:123 - first name is entered  
+2021-01-06 22:46:20 INFO  RegisterToWebsitePage:129 - last name is entered 
+2021-01-06 22:46:20 INFO  RegisterToWebsitePage:135 - password is entered  
+2021-01-06 22:46:20 INFO  RegisterToWebsitePage:142 - date of DOB 
+2021-01-06 22:46:20 INFO  RegisterToWebsitePage:149 - month of DOB 
+2021-01-06 22:46:20 INFO  RegisterToWebsitePage:156 - year of DOB 
+2021-01-06 22:46:20 INFO  RegisterToWebsitePage:162 - box got clicked  
+2021-01-06 22:46:20 INFO  RegisterToWebsitePage:174 - company name is entered 
+2021-01-06 22:46:21 INFO  RegisterToWebsitePage:180 - addreshline -1 entered  
+2021-01-06 22:46:21 INFO  RegisterToWebsitePage:186 - addreshline -2 entered  
+2021-01-06 22:46:21 INFO  RegisterToWebsitePage:192 - address  city 
+2021-01-06 22:46:21 INFO  RegisterToWebsitePage:199 - address country 
+2021-01-06 22:46:21 INFO  RegisterToWebsitePage:226 - mobile number entered  
+2021-01-06 22:46:25 INFO  RegisterToWebsitePage:232 - registered button got clicked 
+2021-01-06 22:46:25 INFO  BaseTest:37 - Register success
+2021-01-06 22:46:25 INFO  BaseTest:61 - Browser got closed
+2021-01-06 22:46:28 INFO  BaseTest:44 - chrome Drive is initilized
+2021-02-20 13:17:07 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-02-20 13:17:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-02-20 13:17:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-02-20 13:17:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-02-20 13:17:07 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/saurabhsoni/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-02-20 13:17:07 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-02-20 13:17:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-02-20 13:17:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-02-20 13:17:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-02-20 13:17:07 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/saurabhsoni/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-02-20 13:20:37 INFO  BaseTest:44 - chrome Drive is initilized
+2021-02-20 13:20:45 INFO  BaseTest:54 - URL OPEND
+2021-02-20 13:20:49 INFO  RegisterToWebsitePage:99 - Sign-in button got clicked  
+2021-02-20 13:20:49 INFO  RegisterToWebsitePage:104 - email is entered 
+2021-02-20 13:20:49 INFO  RegisterToWebsitePage:112 - create account button is clicked 
+2021-02-20 13:20:51 INFO  RegisterToWebsitePage:118 - gender is selected 
+2021-02-20 13:20:51 INFO  RegisterToWebsitePage:123 - first name is entered  
+2021-02-20 13:22:08 INFO  BaseTest:44 - chrome Drive is initilized
